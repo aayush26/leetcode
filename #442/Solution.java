@@ -7,8 +7,7 @@ class Solution {
 		List<Integer> duplicates = new ArrayList<Integer>();
 		Set<Integer> noDupes = new HashSet<Integer>();
         for (int i = 0; i < nums.length; i++){
-            boolean isAdded = noDupes.add(nums[i]);
-            if(isAdded == false) {
+            if(noDupes.add(nums[i]) == false) {
             	duplicates.add(nums[i]);
             }
         }
