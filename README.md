@@ -40,6 +40,18 @@ If working on an issue, comment first that you are working on it and then send o
 
 Note: the algorithm name (if multiple words) follows snake case.
 
+4. In the comment section, after adding the problem link, add the `runtime beat %` and `memory usage beats %` provided by leetcode after submission of the code.
+
+**Example**
+```
+/**
+ * https://leetcode.com/problems/gas-station/
+ * runtime beats 45.76% of Java submissions
+ * memory usage beats 77.23% of Java submissions
+ */
+ class Solution { .... }
+```
+
 ## Step 3: Pull Request
 
 1. While sending out pull request, also attach proof of submission as accepted solution for the code.
