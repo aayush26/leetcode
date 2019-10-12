@@ -43,6 +43,7 @@ Note: the algorithm name (if multiple words) follows snake case.
 ## Step 3: Pull Request
 
 1. While sending out pull request, also attach proof of submission as accepted solution for the code.
+2. A single pull request should only address a single issue, i.e. solution for a single leetcode problem. It can include multiple files for multiple unique solutions(approaches) but only for a single problem. 
 
 ## What next?
 
