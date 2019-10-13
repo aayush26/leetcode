@@ -12,20 +12,22 @@ If working on an issue, comment first that you are working on it and then send o
 ### Folder structure:
 
 1. **If only single solution exists**        
-`#<problem_number>/<file_name>`
+`#<problem_number>/<programming_language>/<file_name>`
 
 **Example**
 ```
-#200/Solution.java
+#200/java/Solution.java
 ```
 
 2. **If more than one approach exist**        
-`#<problem_number>/<approach_algorithm_name>/<file_name>`
+`#<problem_number>/<programming_language>/<approach_algorithm_name>/<file_name>`
 
 **Example**
 ```
-#354/dfs/Solution.java
-#354/union_find/Solution.java
+#354/java/dfs/Solution.java
+#354/java/union_find/Solution.java
+#354/kotlin/dfs/Solution.kt
+#354/kotlin/union_find/Solution.kt
 ```
 
 3. The code should start with comment section having the problem link.
