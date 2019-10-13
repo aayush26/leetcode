@@ -5,6 +5,14 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+
+/**
+ * https://leetcode.com/problems/find-all-duplicates-in-an-array/
+ * runtime beats 9.32% of Java submissions
+ * memory usage beats 36.11% of Java submissions
+ */
+
+
 public class FindDuplicates {
 
 	// function that return the value
