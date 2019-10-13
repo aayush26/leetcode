@@ -1,5 +1,7 @@
 /*
  * https://leetcode.com/problems/gas-station/
+ *Runtime: 0 ms, faster than 100.00% of Java online submissions for Gas Station.
+ *Memory Usage: 37.5 MB, less than 98.04% of Java online submissions for Gas Station.
 */
 
 class Solution
