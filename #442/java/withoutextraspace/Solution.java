@@ -5,11 +5,10 @@ import java.util.List;
 
 
 /**
- * Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
  *
- * Find all the elements that appear twice in this array.
- *
- * Could you do it without extra space and in O(n) runtime?
+ * https://leetcode.com/problems/find-all-duplicates-in-an-array/
+ * Runtime: 6 ms, faster than 89.98% of Java online submissions for Find All Duplicates in an Array.
+ * Memory Usage: 48.7 MB, less than 36.11% of Java online submissions for Find All Duplicates in an Array.
  */
 
 
