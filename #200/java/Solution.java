@@ -1,5 +1,7 @@
 /**
  * https://leetcode.com/problems/number-of-islands/
+ * runtime beats 45.25 % of java submissions
+ * memory usage beats 87.44 % of java submissions
  */
  
 class Solution {
