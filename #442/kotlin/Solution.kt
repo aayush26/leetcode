@@ -1,3 +1,7 @@
+/**
+ * https://leetcode.com/problems/find-all-duplicates-in-an-array/
+ */
+
 class Solution {
     fun findDuplicates(nums: IntArray): List<Int> {
         val result: MutableList<Int> = ArrayList<Int>()
