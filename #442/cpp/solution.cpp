@@ -1,5 +1,7 @@
 /**
 * https://leetcode.com/problems/find-all-duplicates-in-an-array/
+* Runtime beats 69.91% of C++ submissions
+* Memory Usage beats 90.00% of C++ submissions
 */
 class Solution {
 public:
