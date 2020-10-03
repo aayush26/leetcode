@@ -1,7 +1,17 @@
+<p align="center">
+  <img width="1080" height="360" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png">
+</p>
+
 # Leetcode
 Solution for problems in leetcode.com
 
 # How to contribute
+
+## Step 0: Star and Fork this Repository
+
+You can star and fork this repository on GitHub by navigating at the top of this repository.
+
+When you’re on the main page of a repository, you’ll see a button to "Star" and “Fork” the repository on the upper right-hand side of the page, underneath your user icon.
 
 ## Step 1: Picking up an issue
 
